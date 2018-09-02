@@ -23,7 +23,7 @@ The module uses, 'socketfilterfw' to manage firewall.
 ```
 ###### Using as a resource:
 ```
-sudo puppet resource macfirwall
+sudo puppet resource macfirewall
 ```
 
 ## Parameters
