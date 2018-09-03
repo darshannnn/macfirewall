@@ -11,4 +11,16 @@
     {"name":"puppetlabs-stdlib","version_requirement":">= 3.0.0"}
   ],
   "data_provider": null
+  "operatingsystem_support": [
+      {
+        "operatingsystem": "Darwin",
+        "operatingsystemrelease": [
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      }
+    ]
+
 }
