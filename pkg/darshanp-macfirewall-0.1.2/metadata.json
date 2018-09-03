@@ -12,15 +12,14 @@
   ],
   "data_provider": null,
   "operatingsystem_support": [
-      {
-        "operatingsystem": "Darwin",
-        "operatingsystemrelease": [
-          "15",
-          "16",
-          "17",
-          "18"
-        ]
-      }
-    ]
-
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemrelease": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ]
+    }
+  ]
 }

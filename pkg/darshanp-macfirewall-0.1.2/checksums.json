@@ -1,0 +1,12 @@
+{
+  "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+  "README.md": "1c9bc580ee7fe734a3a7693978d875da",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "lib/puppet/provider/macfirewall/ruby.rb": "509b7a6fb3e4a157ffc645da191857c9",
+  "lib/puppet/type/macfirewall.rb": "267e6bdf60e5015c478d040e85389ceb",
+  "manifests/init.pp": "c782f16813d0a1e3cffe2618d0fb16d6",
+  "metadata.json": "9985ef92a3659d42f46b4e9c634a7382",
+  "spec/classes/init_spec.rb": "b9ca7483bd3002f07be2164553ffdc3a",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "tests/init.pp": "ca711995a7a7a7de4fbf98d9c1b83125"
+}
