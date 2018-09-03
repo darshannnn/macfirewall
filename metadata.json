@@ -1,6 +1,6 @@
 {
   "name": "darshanp-macfirewall",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "darshanp",
   "summary": "Manage macOS Application Firewall configuration.",
   "license": "Apache 2.0",
